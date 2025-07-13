@@ -44,7 +44,7 @@ h1{
   color: #645CBB;
   text-align: center;
 }
-#show-sentence,#score{
+#show-sentence,.score{
   font-size: 1.6rem;
   margin: 2rem 0;
   letter-spacing: .02rem;
